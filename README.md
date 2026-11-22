@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hey there! 👋 I'm ISUB BASHA
 
-<!--
-**isubbashashaik/isubbashashaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 BCA Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate computer applications student interested in software development, Full Stack Development and Data Science.
+
+### 🚀 About Me
+
+- 🎓 Currently pursuing BCA.
+- 💻 Learning software and web development.
+- 🐍 Exploring Python and Data Science.
+- 📚 Improving my programming and problem-solving skills.
+- 🎯 Working towards becoming a professional developer.
+
+### 🛠️ Technologies I'm Exploring
+
+- HTML & CSS
+- JavaScript
+- Python
+- SQL
+- Git & GitHub
+
+### 📂 My Projects
+
+I'm currently working on building projects to improve my development skills. Stay tuned!
+
+### 🎯 My Goals
+
+- Build real-world applications.
+- Become a Full Stack Developer.
+- Learn Data Science and Machine Learning.
+- Prepare for software developer placements.
+
+### 🤝 Connect With Me
+
+- GitHub: https://github.com/isubbashashaik
+
+---
+
+⭐ Thanks for visiting my profile!
